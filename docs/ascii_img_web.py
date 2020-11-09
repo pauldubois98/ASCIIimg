@@ -54,7 +54,7 @@ def build_page(cols):
     post.close()
     pre.close()
 
-    f = open('picture.html', 'w')
+    f = open('index.html', 'w')
     f.write(html)
     f.close()
 
