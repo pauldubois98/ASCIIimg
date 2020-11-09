@@ -1,0 +1,18 @@
+h1{
+    color: black;
+    font-size: 2em;
+}
+img{
+    height: 20em;
+}
+body{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+pre{
+    color: #607d8b;
+    color: black;
+    font-size: 0.1em;
+}
